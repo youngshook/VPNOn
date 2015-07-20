@@ -10,7 +10,7 @@ import Foundation
 import NetworkExtension
 import CoreData
 
-let kAppGroupIdentifier = "group.VPNOn"
+let kAppGroupIdentifier = "group.com.qfpay.vpnon"
 
 final public class VPNManager
 {

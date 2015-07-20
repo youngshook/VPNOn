@@ -12,11 +12,11 @@
 	<string>$(TeamIdentifierPrefix)$(CFBundleIdentifier)</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.VPNOn</string>
+		<string>group.com.qfpay.vpnon</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.LexTang.VPNOn</string>
+		<string>$(AppIdentifierPrefix)com.qfpay.vpnon</string>
 	</array>
 </dict>
 </plist>
